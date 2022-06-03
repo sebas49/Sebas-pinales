@@ -1,0 +1,109 @@
+cuerpo{
+    fondo: rgb (255, 255, 255);
+}
+
+  
+navegación{
+    fondo: rgb (255, 255, 255);
+}
+
+.gorjeo{
+    color: aguamarina;
+}
+
+.Facebook{
+    color azul;
+}
+
+.instagram{
+    color: rgb (255, 0, 149);
+}
+
+.whatsapp{
+    color: rgb (0, 255, 21);
+}
+
+.Youtube{
+    color rojo;
+}
+
+#inicio{
+    color: #4000ff;
+}
+
+#paginas{
+    color: #4000ff;
+}
+
+#barradesplegable{
+    color: #4000ff;
+}
+
+
+
+.médicos .miembro{
+    margen inferior: 20px;
+    desbordamiento: oculto;
+    alineación de texto: centro;
+    borde-radio: 4px;
+    fondo: #ffffff;
+    caja-sombra:0px 2px 15px #00e1ff;
+}
+
+.médicos .miembro .miembro-img{
+posición: relativa;
+desbordamiento: oculto;
+}
+
+.médicos .miembro .social{
+    posición: absoluta;
+    izquierda: 0;
+    inferior: 0;
+    derecha: 0;
+    altura: 40px;
+    opacidad: 0;
+    transición: facilidad de entrada y salida 0,3 s;
+    fondo: #00ffa2;
+    pantalla: flexible;
+    alinear elementos: centro;
+    justificar-contenido: centro;
+}
+
+.médicos .miembro .social a {
+    transición: color 0.3s;
+    color: #555555;
+    margen: 0 10px;
+    pantalla: en línea-flexible;
+    alinear elementos: centro;
+    justificar-contenido: centro;
+}
+
+.médicos .miembro .social ai {
+    altura de línea: 0;
+}
+
+.médicos .miembro .social a:hover {
+    color: #ff0000;
+}
+
+.médicos .miembro .miembro-info {
+    relleno: 25px 15px;
+}
+
+.médicos .miembro .miembro-info h4 {
+peso de fuente: 700;
+margen inferior: 5px;
+tamaño de fuente: 18px;
+color: #aaaaaa;
+}
+
+.médicos .miembro .miembro-info p {
+    estilo de fuente: cursiva;
+    tamaño de fuente: 14px;
+    altura de línea: 26px;
+    color: #777777;
+}
+
+.médicos .miembro: hover .social {
+    opacidad: 1;
+}
